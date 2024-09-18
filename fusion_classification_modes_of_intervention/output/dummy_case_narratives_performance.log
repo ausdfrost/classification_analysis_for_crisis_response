@@ -1,0 +1,17 @@
+Model accuracy: 0.97
+
+Missed predictions (y_true != y_pred):
+Index: 645, X: The client was given depression to manage their stress. The behavior was handled through behavior. pain was provided as a counseling intervention., y_true: both, y_pred: behavioral
+Index: 47, X: psychotherapy was provided as a addiction intervention. The client was given health to manage their depression. The medication was handled through surgery., y_true: both, y_pred: behavioral
+Index: 134, X: They were taken to the health for psychotherapy. The patient received emergency for their therapy. There was a medical for a prescription case., y_true: both, y_pred: medical
+Index: 498, X: They were taken to the therapy for prescription. There was a treatment for a anxiety case. They were taken to the diagnosis for therapy., y_true: both, y_pred: medical
+Index: 981, X: They were taken to the anxiety for medication. The patient received doctor for their surgery. injury was administered for the support condition., y_true: both, y_pred: medical
+Index: 220, X: The patient received emergency for their anxiety. The patient received medication for their counseling. The patient received prescription for their pain., y_true: both, y_pred: medical
+Index: 76, X: The client was given therapy to manage their disease. The client was given stress to manage their disease. The emotional was handled through support., y_true: both, y_pred: behavioral
+Index: 751, X: There was a doctor for a doctor case. emergency was administered for the medication condition. psychotherapy was administered for the diagnosis condition., y_true: both, y_pred: medical
+Index: 558, X: The therapy was handled through mental health. Counselors suggested emotional for the client's anxiety. The client was given depression to manage their disease., y_true: both, y_pred: behavioral
+Index: 895, X: The patient received anger for their emergency. treatment was administered for the emergency condition. The patient received behavior for their hospital., y_true: both, y_pred: medical
+Index: 588, X: They were taken to the medical for surgery. There was a medical for a prescription case. They were taken to the medical for medical., y_true: medical, y_pred: both
+Index: 809, X: counseling was administered for the disease condition. There was a emotional for a surgery case. There was a pain for a surgery case., y_true: both, y_pred: medical
+Index: 513, X: pain was provided as a addiction intervention. The prescription was handled through prescription. The mental health was handled through addiction., y_true: both, y_pred: behavioral
+Index: 91, X: They were taken to the depression for therapy. There was a emergency for a treatment case. They were taken to the doctor for depression., y_true: both, y_pred: medical
