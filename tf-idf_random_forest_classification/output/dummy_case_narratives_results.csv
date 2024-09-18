@@ -1,0 +1,501 @@
+,X,y_true,y_pred
+783,They were taken to the prescription for therapy. They were taken to the injury for injury. medication was administered for the medical condition.,medical,medical
+311,The client was given psychotherapy to manage their anger. The client was given emotional to manage their psychological. The anxiety was handled through stress.,behavioral,behavioral
+10,The client was given mental health to manage their therapy. Counselors suggested anxiety for the client's counseling. The client was given psychological to manage their anger.,behavioral,behavioral
+492,The client was given support to manage their behavior. The client was given depression to manage their support. The client was given psychological to manage their therapy.,behavioral,behavioral
+932,The patient received pain for their emergency. There was a injury for a prescription case. pain was administered for the therapy condition.,medical,medical
+539,The patient received surgery for their prescription. The patient received pain for their doctor. There was a disease for a disease case.,medical,medical
+704,medical was administered for the therapy condition. The patient received medical for their prescription. The patient received diagnosis for their treatment.,medical,medical
+549,behavior was administered for the hospital condition. Counselors suggested disease for the client's pain. hospital was administered for the medical condition.,both,both
+209,The client was given behavior to manage their support. The client was given counseling to manage their therapy. stress was provided as a anxiety intervention.,behavioral,behavioral
+80,Counselors suggested anger for the client's mental health. Counselors suggested addiction for the client's therapy. stress was provided as a psychotherapy intervention.,behavioral,behavioral
+367,Counselors suggested mental health for the client's counseling. The stress was handled through mental health. support was provided as a mental health intervention.,behavioral,behavioral
+342,Counselors suggested mental health for the client's emotional. Counselors suggested addiction for the client's depression. Counselors suggested behavior for the client's emotional.,behavioral,behavioral
+886,support was provided as a anger intervention. counseling was provided as a therapy intervention. The stress was handled through therapy.,behavioral,behavioral
+644,The patient received disease for their depression. pain was provided as a injury intervention. They were taken to the prescription for medication.,both,both
+131,prescription was administered for the treatment condition. medication was administered for the hospital condition. They were taken to the injury for treatment.,medical,medical
+308,hospital was provided as a doctor intervention. treatment was provided as a anger intervention. The prescription was handled through psychotherapy.,both,both
+528,Counselors suggested emotional for the client's injury. The treatment was handled through therapy. The client was given emergency to manage their injury.,both,behavioral
+652,Counselors suggested psychotherapy for the client's depression. Counselors suggested psychological for the client's depression. The client was given psychological to manage their anger.,behavioral,behavioral
+373,There was a therapy for a doctor case. The patient received pain for their injury. treatment was administered for the health condition.,medical,medical
+7,The patient received diagnosis for their prescription. The patient received doctor for their doctor. The patient received pain for their surgery.,medical,medical
+686,There was a diagnosis for a doctor case. health was administered for the treatment condition. They were taken to the surgery for disease.,medical,medical
+717,The addiction was handled through support. anger was provided as a counseling intervention. The anxiety was handled through mental health.,behavioral,behavioral
+942,They were taken to the disease for pain. There was a disease for a doctor case. treatment was administered for the health condition.,medical,medical
+185,They were taken to the emergency for medication. Counselors suggested surgery for the client's prescription. Counselors suggested doctor for the client's behavior.,both,both
+591,The client was given counseling to manage their therapy. Counselors suggested depression for the client's mental health. support was provided as a behavior intervention.,behavioral,behavioral
+766,diagnosis was administered for the pain condition. medication was administered for the treatment condition. pain was administered for the disease condition.,medical,medical
+925,treatment was administered for the diagnosis condition. The patient received doctor for their treatment. The patient received disease for their treatment.,medical,medical
+363,They were taken to the medical for surgery. medical was provided as a anger intervention. The client was given addiction to manage their therapy.,both,both
+541,Counselors suggested psychological for the client's psychotherapy. The behavior was handled through addiction. The psychological was handled through therapy.,behavioral,behavioral
+33,The patient received diagnosis for their emergency. The emergency was handled through prescription. There was a psychotherapy for a emotional case.,both,both
+356,behavior was administered for the pain condition. Counselors suggested counseling for the client's disease. They were taken to the treatment for emotional.,both,both
+848,There was a prescription for a emergency case. The patient received disease for their pain. They were taken to the medical for doctor.,medical,medical
+490,injury was administered for the emergency condition. They were taken to the counseling for health. doctor was provided as a anger intervention.,both,both
+514,The psychological was handled through psychotherapy. The client was given counseling to manage their psychological. psychotherapy was provided as a mental health intervention.,behavioral,behavioral
+835,Counselors suggested behavior for the client's stress. The client was given counseling to manage their psychological. Counselors suggested stress for the client's psychological.,behavioral,behavioral
+423,The client was given therapy to manage their psychological. They were taken to the prescription for surgery. The client was given surgery to manage their doctor.,both,both
+896,depression was provided as a psychological intervention. depression was provided as a behavior intervention. The anxiety was handled through anxiety.,behavioral,behavioral
+755,Counselors suggested anxiety for the client's support. emotional was provided as a anger intervention. The client was given emotional to manage their addiction.,behavioral,behavioral
+828,stress was administered for the injury condition. The patient received medication for their health. treatment was provided as a psychological intervention.,both,both
+469,pain was provided as a pain intervention. The anxiety was handled through depression. The client was given prescription to manage their prescription.,both,behavioral
+51,The client was given psychotherapy to manage their mental health. Counselors suggested addiction for the client's addiction. The client was given therapy to manage their mental health.,behavioral,behavioral
+802,Counselors suggested stress for the client's support. Counselors suggested anxiety for the client's anxiety. Counselors suggested psychological for the client's support.,behavioral,behavioral
+483,Counselors suggested anxiety for the client's depression. The client was given stress to manage their psychotherapy. anger was provided as a addiction intervention.,behavioral,behavioral
+858,The therapy was handled through emotional. counseling was provided as a emotional intervention. Counselors suggested therapy for the client's support.,behavioral,behavioral
+208,prescription was administered for the health condition. There was a treatment for a injury case. The patient received medication for their medical.,medical,medical
+614,Counselors suggested therapy for the client's stress. The therapy was handled through behavior. The client was given anxiety to manage their therapy.,behavioral,behavioral
+362,emergency was provided as a hospital intervention. Counselors suggested behavior for the client's emergency. The patient received disease for their health.,both,both
+19,There was a medical for a hospital case. There was a surgery for a medication case. There was a surgery for a treatment case.,medical,medical
+796,They were taken to the hospital for injury. The patient received medical for their therapy. The patient received therapy for their pain.,medical,medical
+748,The patient received pain for their health. They were taken to the injury for injury. They were taken to the hospital for emergency.,medical,medical
+340,The patient received prescription for their treatment. There was a medical for a pain case. They were taken to the disease for disease.,medical,medical
+274,treatment was administered for the diagnosis condition. They were taken to the doctor for health. They were taken to the hospital for surgery.,medical,medical
+192,There was a surgery for a behavior case. counseling was provided as a anger intervention. The client was given psychological to manage their psychotherapy.,both,both
+88,There was a behavior for a addiction case. The disease was handled through health. behavior was administered for the mental health condition.,both,both
+143,The prescription was handled through injury. There was a health for a injury case. The client was given depression to manage their support.,both,both
+538,addiction was provided as a counseling intervention. The psychological was handled through counseling. Counselors suggested mental health for the client's support.,behavioral,behavioral
+421,There was a health for a pain case. Counselors suggested psychotherapy for the client's therapy. psychological was administered for the stress condition.,both,both
+418,The client was given medical to manage their diagnosis. medical was provided as a surgery intervention. The client was given disease to manage their mental health.,both,both
+138,Counselors suggested support for the client's addiction. The client was given stress to manage their anger. therapy was provided as a emotional intervention.,behavioral,behavioral
+863,The depression was handled through counseling. The client was given anxiety to manage their therapy. The client was given behavior to manage their therapy.,behavioral,behavioral
+661,stress was provided as a counseling intervention. The depression was handled through mental health. Counselors suggested anger for the client's support.,behavioral,behavioral
+271,injury was administered for the medication condition. health was administered for the surgery condition. The patient received diagnosis for their therapy.,medical,medical
+978,They were taken to the emergency for health. There was a surgery for a treatment case. They were taken to the emergency for doctor.,medical,medical
+464,The client was given therapy to manage their diagnosis. Counselors suggested disease for the client's diagnosis. medical was administered for the prescription condition.,both,both
+1,The client was given therapy to manage their counseling. behavior was provided as a mental health intervention. Counselors suggested psychotherapy for the client's depression.,behavioral,behavioral
+189,There was a medication for a pain case. There was a medical for a doctor case. disease was administered for the emergency condition.,medical,medical
+570,There was a health for a treatment case. The patient received behavior for their therapy. There was a anxiety for a therapy case.,both,medical
+960,The emotional was handled through pain. The client was given emotional to manage their treatment. There was a injury for a depression case.,both,both
+881,They were taken to the disease for hospital. emergency was administered for the emergency condition. doctor was administered for the treatment condition.,medical,medical
+609,The patient received doctor for their medical. There was a injury for a prescription case. The patient received therapy for their diagnosis.,medical,medical
+370,There was a health for a diagnosis case. They were taken to the diagnosis for diagnosis. They were taken to the hospital for injury.,medical,medical
+368,therapy was administered for the depression condition. The behavior was handled through depression. The client was given emotional to manage their anxiety.,both,both
+445,treatment was administered for the injury condition. They were taken to the disease for medical. They were taken to the emergency for diagnosis.,medical,medical
+298,The client was given behavior to manage their support. The client was given anxiety to manage their therapy. therapy was provided as a support intervention.,behavioral,behavioral
+556,The patient received anger for their hospital. Counselors suggested disease for the client's behavior. surgery was provided as a therapy intervention.,both,both
+116,doctor was administered for the emergency condition. There was a injury for a injury case. They were taken to the emergency for injury.,medical,medical
+695,psychological was provided as a emotional intervention. The anxiety was handled through stress. Counselors suggested psychological for the client's psychotherapy.,behavioral,behavioral
+161,They were taken to the doctor for anger. The medical was handled through behavior. anger was provided as a injury intervention.,both,both
+387,Counselors suggested support for the client's support. The client was given behavior to manage their anxiety. Counselors suggested psychological for the client's stress.,behavioral,behavioral
+991,The therapy was handled through behavior. psychological was provided as a therapy intervention. The addiction was handled through mental health.,behavioral,behavioral
+394,The patient received pain for their therapy. They were taken to the prescription for medical. There was a treatment for a treatment case.,medical,medical
+522,treatment was administered for the doctor condition. health was administered for the disease condition. The patient received emergency for their doctor.,medical,medical
+278,The hospital was handled through injury. The client was given psychotherapy to manage their psychotherapy. Counselors suggested prescription for the client's hospital.,both,both
+71,They were taken to the diagnosis for addiction. The client was given health to manage their prescription. The patient received doctor for their prescription.,both,both
+172,There was a doctor for a injury case. There was a therapy for a doctor case. The patient received emergency for their doctor.,medical,medical
+432,The client was given anger to manage their therapy. Counselors suggested psychological for the client's behavior. Counselors suggested counseling for the client's counseling.,behavioral,behavioral
+288,There was a surgery for a diagnosis case. The patient received diagnosis for their treatment. The patient received medication for their therapy.,medical,medical
+900,The patient received support for their addiction. They were taken to the depression for depression. treatment was provided as a emergency intervention.,both,both
+134,They were taken to the health for psychotherapy. The patient received emergency for their therapy. There was a medical for a prescription case.,both,medical
+468,support was administered for the counseling condition. There was a emergency for a diagnosis case. medical was provided as a diagnosis intervention.,both,both
+108,There was a diagnosis for a emergency case. There was a pain for a prescription case. They were taken to the diagnosis for medication.,medical,medical
+558,The therapy was handled through mental health. Counselors suggested emotional for the client's anxiety. The client was given depression to manage their disease.,both,behavioral
+542,The disease was handled through health. There was a addiction for a injury case. surgery was provided as a emergency intervention.,both,both
+735,The stress was handled through psychotherapy. The client was given stress to manage their psychological. Counselors suggested anxiety for the client's anger.,behavioral,behavioral
+817,anxiety was provided as a anxiety intervention. depression was provided as a psychological intervention. Counselors suggested addiction for the client's emotional.,behavioral,behavioral
+306,The client was given therapy to manage their psychotherapy. psychological was provided as a support intervention. The client was given addiction to manage their anxiety.,behavioral,behavioral
+806,psychotherapy was provided as a mental health intervention. The client was given therapy to manage their addiction. therapy was provided as a counseling intervention.,behavioral,behavioral
+707,They were taken to the treatment for surgery. They were taken to the disease for prescription. The patient received surgery for their diagnosis.,medical,medical
+608,They were taken to the hospital for health. doctor was administered for the treatment condition. They were taken to the doctor for treatment.,medical,medical
+560,therapy was administered for the surgery condition. medication was administered for the medication condition. There was a doctor for a medical case.,medical,medical
+99,anger was provided as a behavior intervention. The client was given support to manage their stress. depression was provided as a emotional intervention.,behavioral,behavioral
+22,The injury was handled through behavior. The client was given doctor to manage their support. behavior was provided as a anger intervention.,both,behavioral
+751,There was a doctor for a doctor case. emergency was administered for the medication condition. psychotherapy was administered for the diagnosis condition.,both,medical
+865,The health was handled through hospital. surgery was administered for the stress condition. therapy was administered for the behavior condition.,both,both
+793,The client was given anxiety to manage their therapy. The mental health was handled through emotional. behavior was provided as a mental health intervention.,behavioral,behavioral
+90,Counselors suggested mental health for the client's pain. counseling was administered for the medication condition. There was a health for a psychotherapy case.,both,both
+550,The client was given psychotherapy to manage their therapy. They were taken to the pain for addiction. The client was given doctor to manage their pain.,both,both
+843,The patient received emergency for their stress. Counselors suggested therapy for the client's health. There was a anger for a hospital case.,both,both
+273,The support was handled through counseling. Counselors suggested stress for the client's anger. The client was given anger to manage their behavior.,behavioral,behavioral
+371,The patient received surgery for their therapy. The patient received medical for their health. There was a diagnosis for a therapy case.,medical,medical
+369,depression was provided as a anxiety intervention. The client was given stress to manage their stress. Counselors suggested stress for the client's psychological.,behavioral,behavioral
+874,The client was given doctor to manage their diagnosis. therapy was administered for the psychological condition. The patient received therapy for their hospital.,both,both
+207,Counselors suggested addiction for the client's behavior. The client was given mental health to manage their therapy. The anger was handled through addiction.,behavioral,behavioral
+931,support was provided as a stress intervention. The depression was handled through behavior. psychotherapy was provided as a psychotherapy intervention.,behavioral,behavioral
+565,Counselors suggested stress for the client's counseling. The anger was handled through addiction. The client was given psychotherapy to manage their therapy.,behavioral,behavioral
+299,Counselors suggested addiction for the client's depression. The psychotherapy was handled through anger. The anxiety was handled through counseling.,behavioral,behavioral
+680,There was a diagnosis for a pain case. There was a therapy for a diagnosis case. They were taken to the hospital for prescription.,medical,medical
+872,counseling was administered for the anxiety condition. prescription was administered for the mental health condition. The patient received prescription for their stress.,both,both
+520,Counselors suggested therapy for the client's mental health. The stress was handled through depression. stress was provided as a psychotherapy intervention.,behavioral,behavioral
+584,The hospital was handled through psychological. Counselors suggested disease for the client's anger. The client was given doctor to manage their counseling.,both,both
+588,They were taken to the medical for surgery. There was a medical for a prescription case. They were taken to the medical for medical.,medical,both
+32,medical was administered for the pain condition. hospital was administered for the therapy condition. They were taken to the injury for injury.,medical,medical
+526,The patient received hospital for their pain. diagnosis was administered for the treatment condition. The patient received disease for their surgery.,medical,medical
+55,The patient received health for their disease. They were taken to the emergency for prescription. There was a diagnosis for a injury case.,medical,medical
+28,mental health was provided as a depression intervention. Counselors suggested counseling for the client's anger. The client was given emotional to manage their mental health.,behavioral,behavioral
+838,treatment was administered for the medication condition. disease was administered for the prescription condition. There was a therapy for a emergency case.,medical,medical
+346,The client was given therapy to manage their psychotherapy. The client was given psychotherapy to manage their stress. The client was given mental health to manage their support.,behavioral,behavioral
+867,injury was administered for the medication condition. They were taken to the surgery for disease. There was a pain for a prescription case.,medical,medical
+763,Counselors suggested psychological for the client's stress. Counselors suggested anger for the client's anxiety. psychological was provided as a stress intervention.,behavioral,behavioral
+366,There was a disease for a pain case. medication was administered for the medication condition. The patient received treatment for their disease.,medical,medical
+880,There was a injury for a diagnosis case. The patient received emergency for their doctor. The patient received injury for their medical.,medical,medical
+702,They were taken to the therapy for counseling. Counselors suggested medication for the client's psychotherapy. The psychological was handled through diagnosis.,both,both
+725,behavior was provided as a anxiety intervention. The client was given counseling to manage their stress. The stress was handled through support.,behavioral,behavioral
+638,There was a diagnosis for a mental health case. Counselors suggested therapy for the client's counseling. Counselors suggested anger for the client's medical.,both,both
+393,The therapy was handled through therapy. anger was provided as a anxiety intervention. psychotherapy was provided as a addiction intervention.,behavioral,behavioral
+424,The client was given depression to manage their addiction. The support was handled through stress. The psychological was handled through counseling.,behavioral,behavioral
+568,The psychological was handled through therapy. behavior was provided as a support intervention. The client was given stress to manage their behavior.,behavioral,behavioral
+399,Counselors suggested depression for the client's psychological. The anger was handled through mental health. The client was given stress to manage their psychological.,behavioral,behavioral
+317,The patient received emergency for their doctor. The patient received injury for their prescription. The patient received medication for their medical.,medical,medical
+146,The client was given counseling to manage their therapy. psychotherapy was provided as a anger intervention. The anxiety was handled through behavior.,behavioral,behavioral
+527,Counselors suggested psychological for the client's anxiety. The anxiety was handled through counseling. emotional was provided as a stress intervention.,behavioral,behavioral
+878,anger was provided as a emotional intervention. psychological was administered for the mental health condition. Counselors suggested psychotherapy for the client's pain.,both,both
+8,The client was given counseling to manage their support. The anxiety was handled through psychotherapy. The client was given emotional to manage their psychotherapy.,behavioral,behavioral
+256,The depression was handled through psychological. The client was given depression to manage their psychological. psychotherapy was provided as a anxiety intervention.,behavioral,behavioral
+324,There was a medication for a doctor case. They were taken to the surgery for injury. They were taken to the medical for disease.,medical,medical
+936,The client was given anger to manage their stress. The anger was handled through emotional. Counselors suggested mental health for the client's counseling.,behavioral,behavioral
+241,There was a surgery for a emergency case. They were taken to the surgery for disease. The patient received diagnosis for their hospital.,medical,medical
+181,They were taken to the medication for diagnosis. The behavior was handled through therapy. They were taken to the medication for therapy.,both,both
+671,anger was provided as a psychological intervention. behavior was provided as a anger intervention. mental health was provided as a emotional intervention.,behavioral,behavioral
+291,The client was given emotional to manage their psychotherapy. The client was given therapy to manage their mental health. The psychological was handled through psychological.,behavioral,behavioral
+495,The client was given support to manage their therapy. Counselors suggested therapy for the client's counseling. The therapy was handled through addiction.,behavioral,behavioral
+799,The support was handled through addiction. Counselors suggested emotional for the client's emotional. counseling was provided as a depression intervention.,behavioral,behavioral
+163,There was a disease for a doctor case. There was a prescription for a prescription case. The patient received diagnosis for their treatment.,medical,medical
+905,Counselors suggested depression for the client's anxiety. Counselors suggested anger for the client's therapy. The stress was handled through psychological.,behavioral,behavioral
+378,They were taken to the disease for treatment. doctor was provided as a anxiety intervention. The patient received emergency for their pain.,both,both
+649,The client was given behavior to manage their emotional. The anger was handled through anxiety. The anxiety was handled through addiction.,behavioral,behavioral
+731,They were taken to the emotional for health. The patient received prescription for their disease. There was a stress for a depression case.,both,both
+225,The treatment was handled through treatment. They were taken to the anxiety for anger. Counselors suggested mental health for the client's medical.,both,both
+885,Counselors suggested mental health for the client's diagnosis. The behavior was handled through hospital. Counselors suggested psychotherapy for the client's emotional.,both,behavioral
+952,counseling was administered for the depression condition. The pain was handled through diagnosis. The client was given medication to manage their medication.,both,both
+258,injury was administered for the therapy condition. health was administered for the pain condition. diagnosis was administered for the doctor condition.,medical,medical
+831,The psychological was handled through counseling. The addiction was handled through depression. stress was provided as a addiction intervention.,behavioral,behavioral
+426,The client was given surgery to manage their medication. mental health was administered for the therapy condition. The medical was handled through pain.,both,both
+281,The patient received medication for their disease. There was a injury for a prescription case. They were taken to the therapy for health.,medical,medical
+851,There was a emergency for a surgery case. They were taken to the emergency for prescription. medical was administered for the medication condition.,medical,medical
+127,medical was administered for the diagnosis condition. emergency was administered for the hospital condition. There was a prescription for a pain case.,medical,medical
+892,Counselors suggested counseling for the client's anxiety. There was a therapy for a behavior case. anger was provided as a prescription intervention.,both,both
+474,There was a therapy for a injury case. therapy was administered for the doctor condition. anxiety was provided as a psychological intervention.,both,both
+334,The client was given psychological to manage their disease. The client was given pain to manage their therapy. Counselors suggested mental health for the client's support.,both,behavioral
+158,medical was administered for the injury condition. They were taken to the diagnosis for emergency. There was a diagnosis for a disease case.,medical,medical
+933,The client was given therapy to manage their psychological. The client was given support to manage their anxiety. The client was given counseling to manage their therapy.,behavioral,behavioral
+473,doctor was administered for the disease condition. They were taken to the therapy for emergency. They were taken to the medication for emergency.,medical,medical
+613,The client was given support to manage their anger. Counselors suggested mental health for the client's psychotherapy. Counselors suggested psychological for the client's behavior.,behavioral,behavioral
+645,The client was given depression to manage their stress. The behavior was handled through behavior. pain was provided as a counseling intervention.,both,behavioral
+218,addiction was provided as a support intervention. There was a health for a addiction case. Counselors suggested diagnosis for the client's anxiety.,both,both
+821,behavior was provided as a psychological intervention. therapy was provided as a therapy intervention. psychological was provided as a psychological intervention.,behavioral,behavioral
+737,The patient received medication for their prescription. They were taken to the pain for disease. emergency was administered for the diagnosis condition.,medical,medical
+195,They were taken to the surgery for mental health. The patient received psychotherapy for their prescription. There was a diagnosis for a pain case.,both,both
+91,They were taken to the depression for therapy. There was a emergency for a treatment case. They were taken to the doctor for depression.,both,medical
+102,The depression was handled through anger. The stress was handled through addiction. therapy was provided as a therapy intervention.,behavioral,behavioral
+972,therapy was administered for the treatment condition. medication was administered for the disease condition. They were taken to the hospital for emergency.,medical,medical
+548,medical was administered for the psychotherapy condition. The hospital was handled through doctor. They were taken to the diagnosis for surgery.,both,both
+303,The counseling was handled through medical. They were taken to the anger for diagnosis. They were taken to the behavior for addiction.,both,both
+746,Counselors suggested counseling for the client's doctor. They were taken to the treatment for therapy. They were taken to the depression for disease.,both,both
+470,The client was given psychotherapy to manage their stress. The patient received behavior for their anger. The health was handled through stress.,both,both
+186,mental health was provided as a support intervention. The client was given counseling to manage their emotional. The client was given behavior to manage their anxiety.,behavioral,behavioral
+176,support was provided as a counseling intervention. Counselors suggested support for the client's therapy. mental health was provided as a addiction intervention.,behavioral,behavioral
+310,There was a diagnosis for a pain case. The patient received doctor for their psychotherapy. emergency was provided as a prescription intervention.,both,both
+530,There was a emergency for a psychological case. psychotherapy was administered for the support condition. The client was given pain to manage their anxiety.,both,both
+557,They were taken to the disease for anger. There was a health for a depression case. The patient received counseling for their stress.,both,both
+427,The psychological was handled through mental health. The client was given mental health to manage their anxiety. Counselors suggested anger for the client's psychological.,behavioral,behavioral
+694,Counselors suggested depression for the client's emotional. addiction was provided as a psychological intervention. stress was provided as a emotional intervention.,behavioral,behavioral
+876,The patient received prescription for their health. There was a disease for a health case. There was a doctor for a pain case.,medical,medical
+744,The client was given anger to manage their depression. The psychotherapy was handled through support. The client was given behavior to manage their addiction.,behavioral,behavioral
+833,support was provided as a psychological intervention. The patient received anger for their therapy. health was administered for the therapy condition.,both,both
+698,The client was given stress to manage their counseling. The mental health was handled through counseling. Counselors suggested emotional for the client's psychotherapy.,behavioral,behavioral
+567,Counselors suggested psychological for the client's anxiety. The counseling was handled through mental health. The client was given emotional to manage their therapy.,behavioral,behavioral
+359,There was a pain for a surgery case. There was a treatment for a emergency case. They were taken to the medication for hospital.,medical,medical
+40,They were taken to the injury for injury. There was a anger for a psychotherapy case. emergency was administered for the anxiety condition.,both,both
+154,There was a medical for a therapy case. There was a emergency for a disease case. They were taken to the disease for prescription.,medical,medical
+977,Counselors suggested anger for the client's depression. The client was given counseling to manage their psychological. counseling was provided as a counseling intervention.,behavioral,behavioral
+212,There was a diagnosis for a medical case. prescription was administered for the pain condition. They were taken to the emergency for diagnosis.,medical,medical
+180,There was a injury for a treatment case. health was administered for the prescription condition. The patient received injury for their medication.,medical,medical
+778,There was a health for a doctor case. There was a treatment for a prescription case. The patient received doctor for their medication.,medical,medical
+727,They were taken to the health for mental health. The patient received behavior for their treatment. Counselors suggested disease for the client's support.,both,both
+665,psychotherapy was provided as a psychological intervention. Counselors suggested behavior for the client's support. The psychological was handled through anger.,behavioral,behavioral
+132,The depression was handled through addiction. Counselors suggested stress for the client's psychological. Counselors suggested depression for the client's counseling.,behavioral,behavioral
+974,They were taken to the diagnosis for health. disease was administered for the therapy condition. They were taken to the treatment for disease.,medical,medical
+392,The client was given psychological to manage their anger. The behavior was handled through support. The client was given anger to manage their support.,behavioral,behavioral
+200,There was a psychotherapy for a hospital case. therapy was provided as a therapy intervention. addiction was provided as a treatment intervention.,both,both
+759,The client was given mental health to manage their psychotherapy. Counselors suggested psychological for the client's behavior. psychological was provided as a behavior intervention.,behavioral,behavioral
+888,counseling was provided as a stress intervention. The psychological was handled through mental health. The client was given stress to manage their support.,behavioral,behavioral
+820,They were taken to the health for anxiety. There was a addiction for a depression case. The client was given anxiety to manage their counseling.,both,both
+544,There was a disease for a emergency case. They were taken to the treatment for treatment. There was a surgery for a surgery case.,medical,medical
+471,medication was administered for the prescription condition. There was a prescription for a surgery case. The patient received disease for their injury.,medical,medical
+300,The client was given support to manage their stress. The client was given psychotherapy to manage their mental health. The client was given addiction to manage their depression.,behavioral,behavioral
+700,behavior was provided as a behavior intervention. Counselors suggested stress for the client's psychological. The client was given depression to manage their anger.,behavioral,behavioral
+956,Counselors suggested support for the client's therapy. The counseling was handled through stress. The client was given stress to manage their addiction.,behavioral,behavioral
+564,The patient received surgery for their injury. They were taken to the treatment for surgery. The patient received prescription for their injury.,medical,medical
+148,psychotherapy was provided as a support intervention. psychotherapy was provided as a counseling intervention. The client was given mental health to manage their mental health.,behavioral,behavioral
+716,Counselors suggested emotional for the client's addiction. The addiction was handled through addiction. therapy was provided as a stress intervention.,behavioral,behavioral
+121,The disease was handled through behavior. The patient received injury for their diagnosis. counseling was provided as a doctor intervention.,both,both
+622,The client was given stress to manage their behavior. therapy was provided as a anger intervention. Counselors suggested psychological for the client's psychological.,behavioral,behavioral
+864,The medical was handled through therapy. The patient received emergency for their emotional. The client was given psychotherapy to manage their health.,both,both
+215,Counselors suggested addiction for the client's depression. The client was given stress to manage their doctor. The client was given mental health to manage their disease.,both,behavioral
+191,depression was provided as a emotional intervention. The depression was handled through psychotherapy. Counselors suggested anger for the client's psychological.,behavioral,behavioral
+832,The psychotherapy was handled through therapy. stress was provided as a stress intervention. depression was provided as a mental health intervention.,behavioral,behavioral
+640,emotional was provided as a anger intervention. psychotherapy was provided as a mental health intervention. The therapy was handled through behavior.,behavioral,behavioral
+26,They were taken to the addiction for emergency. therapy was provided as a psychological intervention. stress was provided as a support intervention.,both,both
+599,Counselors suggested counseling for the client's anxiety. The client was given mental health to manage their stress. counseling was provided as a anger intervention.,behavioral,behavioral
+430,behavior was provided as a counseling intervention. Counselors suggested emotional for the client's therapy. The counseling was handled through support.,behavioral,behavioral
+664,The patient received hospital for their health. The client was given therapy to manage their injury. The diagnosis was handled through behavior.,both,both
+487,They were taken to the disease for injury. emotional was administered for the prescription condition. counseling was provided as a therapy intervention.,both,both
+390,Counselors suggested stress for the client's emotional. The psychological was handled through stress. The client was given psychotherapy to manage their emotional.,behavioral,behavioral
+204,The psychotherapy was handled through stress. The support was handled through stress. The client was given addiction to manage their emotional.,behavioral,behavioral
+846,There was a disease for a emergency case. There was a therapy for a prescription case. The patient received surgery for their injury.,medical,medical
+602,Counselors suggested mental health for the client's psychological. The mental health was handled through behavior. The client was given psychological to manage their support.,behavioral,behavioral
+302,The client was given support to manage their depression. The client was given therapy to manage their anger. The depression was handled through addiction.,behavioral,behavioral
+580,They were taken to the psychological for counseling. They were taken to the psychological for anxiety. The therapy was handled through behavior.,both,both
+868,The patient received medication for their surgery. The patient received treatment for their pain. medication was administered for the disease condition.,medical,medical
+916,The counseling was handled through anxiety. They were taken to the therapy for behavior. The patient received hospital for their depression.,both,both
+484,They were taken to the prescription for medical. There was a treatment for a medication case. They were taken to the prescription for emergency.,medical,medical
+98,There was a prescription for a disease case. There was a health for a treatment case. There was a pain for a injury case.,medical,medical
+646,The client was given addiction to manage their psychological. The psychological was handled through behavior. The client was given counseling to manage their support.,behavioral,behavioral
+441,The psychological was handled through emotional. Counselors suggested anger for the client's depression. Counselors suggested anger for the client's mental health.,behavioral,behavioral
+95,There was a disease for a medical case. treatment was administered for the diagnosis condition. There was a treatment for a diagnosis case.,medical,medical
+937,medication was administered for the surgery condition. There was a medical for a health case. The patient received diagnosis for their surgery.,medical,medical
+125,The patient received medical for their prescription. They were taken to the pain for doctor. injury was administered for the emergency condition.,medical,medical
+29,emergency was administered for the therapy condition. There was a hospital for a medical case. The patient received medication for their treatment.,medical,medical
+325,The patient received depression for their psychotherapy. therapy was provided as a injury intervention. psychological was provided as a injury intervention.,both,both
+769,The stress was handled through emotional. The client was given therapy to manage their addiction. The client was given behavior to manage their support.,behavioral,behavioral
+730,The support was handled through anger. The therapy was handled through behavior. The psychological was handled through behavior.,behavioral,behavioral
+785,The psychotherapy was handled through psychological. The client was given support to manage their emotional. The client was given psychotherapy to manage their psychological.,behavioral,behavioral
+486,The patient received medication for their hospital. disease was administered for the doctor condition. There was a surgery for a emergency case.,medical,medical
+202,treatment was administered for the health condition. There was a injury for a prescription case. They were taken to the doctor for health.,medical,medical
+44,The client was given addiction to manage their psychotherapy. psychotherapy was provided as a mental health intervention. The psychotherapy was handled through behavior.,behavioral,behavioral
+795,The patient received anger for their injury. stress was provided as a health intervention. Counselors suggested emotional for the client's anger.,both,both
+407,Counselors suggested depression for the client's psychotherapy. The support was handled through emotional. The client was given depression to manage their anxiety.,behavioral,behavioral
+372,therapy was administered for the disease condition. They were taken to the emergency for disease. They were taken to the treatment for medication.,medical,medical
+915,The depression was handled through medical. The emergency was handled through pain. The client was given addiction to manage their treatment.,both,both
+760,They were taken to the health for diagnosis. They were taken to the therapy for hospital. therapy was administered for the disease condition.,medical,medical
+823,addiction was provided as a anxiety intervention. Counselors suggested counseling for the client's behavior. Counselors suggested counseling for the client's therapy.,behavioral,behavioral
+224,There was a diagnosis for a prescription case. There was a emergency for a doctor case. treatment was administered for the diagnosis condition.,medical,medical
+380,The patient received hospital for their emergency. The patient received prescription for their surgery. They were taken to the diagnosis for treatment.,medical,medical
+826,They were taken to the pain for therapy. The patient received health for their therapy. There was a disease for a injury case.,medical,medical
+592,There was a treatment for a prescription case. They were taken to the disease for treatment. emergency was administered for the treatment condition.,medical,medical
+478,There was a medical for a diagnosis case. There was a doctor for a surgery case. They were taken to the therapy for disease.,medical,medical
+197,There was a surgery for a medical case. There was a therapy for a hospital case. They were taken to the emergency for diagnosis.,medical,medical
+144,anger was provided as a psychological intervention. The client was given counseling to manage their emotional. behavior was provided as a anxiety intervention.,behavioral,behavioral
+117,anger was provided as a psychotherapy intervention. Counselors suggested depression for the client's mental health. Counselors suggested anger for the client's behavior.,behavioral,behavioral
+939,The patient received emotional for their behavior. The client was given disease to manage their hospital. They were taken to the pain for support.,both,both
+596,There was a anxiety for a stress case. They were taken to the surgery for diagnosis. They were taken to the psychotherapy for depression.,both,both
+498,They were taken to the therapy for prescription. There was a treatment for a anxiety case. They were taken to the diagnosis for therapy.,both,medical
+533,They were taken to the mental health for disease. The doctor was handled through addiction. Counselors suggested prescription for the client's addiction.,both,both
+130,mental health was provided as a addiction intervention. The client was given addiction to manage their anxiety. Counselors suggested behavior for the client's anger.,behavioral,behavioral
+856,anger was provided as a support intervention. Counselors suggested counseling for the client's support. Counselors suggested depression for the client's addiction.,behavioral,behavioral
+171,The client was given anger to manage their psychotherapy. The client was given support to manage their therapy. The client was given stress to manage their depression.,behavioral,behavioral
+287,The patient received diagnosis for their medication. There was a therapy for a pain case. They were taken to the medical for doctor.,medical,medical
+600,They were taken to the addiction for anxiety. Counselors suggested medication for the client's behavior. Counselors suggested therapy for the client's injury.,both,both
+459,emergency was administered for the therapy condition. The behavior was handled through disease. medical was provided as a psychological intervention.,both,both
+164,They were taken to the treatment for medication. They were taken to the hospital for diagnosis. emergency was administered for the doctor condition.,medical,medical
+267,The patient received medication for their health. There was a health for a prescription case. They were taken to the medical for health.,medical,medical
+133,They were taken to the medication for prescription. disease was administered for the doctor condition. They were taken to the diagnosis for medical.,medical,medical
+198,The patient received anxiety for their health. They were taken to the anger for anger. diagnosis was provided as a addiction intervention.,both,both
+389,doctor was provided as a diagnosis intervention. The doctor was handled through support. The patient received anger for their pain.,both,both
+269,Counselors suggested psychotherapy for the client's anger. Counselors suggested counseling for the client's behavior. Counselors suggested counseling for the client's counseling.,behavioral,behavioral
+75,There was a counseling for a emotional case. The client was given psychotherapy to manage their stress. The client was given doctor to manage their behavior.,both,both
+112,They were taken to the medical for therapy. They were taken to the prescription for medication. There was a emergency for a pain case.,medical,medical
+718,The patient received treatment for their injury. therapy was administered for the disease condition. They were taken to the medication for hospital.,medical,medical
+573,The health was handled through addiction. Counselors suggested diagnosis for the client's pain. They were taken to the counseling for treatment.,both,both
+825,There was a health for a disease case. anger was administered for the treatment condition. disease was administered for the surgery condition.,both,both
+232,There was a health for a medical case. There was a doctor for a treatment case. The patient received treatment for their diagnosis.,medical,medical
+562,stress was provided as a anxiety intervention. Counselors suggested mental health for the client's anxiety. mental health was provided as a stress intervention.,behavioral,behavioral
+639,The client was given therapy to manage their stress. psychological was provided as a counseling intervention. The addiction was handled through psychotherapy.,behavioral,behavioral
+4,The patient received pain for their disease. There was a surgery for a prescription case. The patient received diagnosis for their doctor.,medical,medical
+74,The support was handled through anxiety. Counselors suggested therapy for the client's psychotherapy. Counselors suggested emotional for the client's depression.,behavioral,behavioral
+187,They were taken to the health for hospital. emergency was administered for the health condition. The patient received hospital for their pain.,medical,medical
+336,The client was given depression to manage their stress. The client was given depression to manage their support. The client was given mental health to manage their psychological.,behavioral,behavioral
+791,There was a emergency for a medication case. The patient received disease for their prescription. They were taken to the therapy for medical.,medical,medical
+663,pain was administered for the prescription condition. They were taken to the health for disease. They were taken to the prescription for medication.,medical,medical
+635,The patient received disease for their doctor. They were taken to the health for therapy. They were taken to the medical for surgery.,medical,medical
+684,surgery was administered for the disease condition. diagnosis was administered for the injury condition. medication was administered for the prescription condition.,medical,medical
+479,Counselors suggested psychotherapy for the client's counseling. There was a diagnosis for a pain case. The client was given behavior to manage their support.,both,both
+840,The client was given support to manage their depression. The client was given depression to manage their psychological. mental health was provided as a emotional intervention.,behavioral,behavioral
+955,Counselors suggested anger for the client's psychological. The psychotherapy was handled through emotional. mental health was provided as a counseling intervention.,behavioral,behavioral
+62,The client was given support to manage their counseling. There was a therapy for a psychotherapy case. prescription was administered for the pain condition.,both,both
+948,Counselors suggested addiction for the client's behavior. The stress was handled through depression. The addiction was handled through stress.,behavioral,behavioral
+214,Counselors suggested stress for the client's behavior. Counselors suggested behavior for the client's behavior. The anger was handled through emotional.,behavioral,behavioral
+504,anger was administered for the medical condition. The patient received behavior for their pain. Counselors suggested prescription for the client's therapy.,both,both
+244,hospital was administered for the hospital condition. There was a addiction for a anxiety case. They were taken to the injury for hospital.,both,medical
+924,doctor was administered for the injury condition. There was a diagnosis for a surgery case. The patient received emergency for their medication.,medical,medical
+480,There was a surgery for a medication case. They were taken to the treatment for treatment. The patient received emergency for their treatment.,medical,medical
+447,The client was given psychotherapy to manage their support. Counselors suggested emotional for the client's addiction. The behavior was handled through depression.,behavioral,behavioral
+120,The patient received treatment for their doctor. They were taken to the therapy for health. health was administered for the hospital condition.,medical,medical
+889,There was a medical for a diagnosis case. There was a surgery for a therapy case. medication was administered for the medication condition.,medical,medical
+301,They were taken to the therapy for disease. They were taken to the medication for surgery. disease was administered for the therapy condition.,medical,medical
+462,There was a medication for a doctor case. The patient received treatment for their injury. They were taken to the treatment for emergency.,medical,medical
+679,The patient received pain for their medication. therapy was administered for the pain condition. They were taken to the doctor for pain.,medical,medical
+85,hospital was administered for the emergency condition. therapy was administered for the doctor condition. injury was administered for the medication condition.,medical,medical
+985,Counselors suggested disease for the client's psychotherapy. Counselors suggested therapy for the client's addiction. They were taken to the stress for anger.,both,both
+651,The client was given anger to manage their psychological. mental health was provided as a stress intervention. behavior was provided as a behavior intervention.,behavioral,behavioral
+174,The client was given emotional to manage their psychotherapy. The client was given therapy to manage their psychotherapy. The client was given behavior to manage their mental health.,behavioral,behavioral
+96,There was a diagnosis for a medication case. They were taken to the emergency for hospital. They were taken to the therapy for prescription.,medical,medical
+87,There was a surgery for a disease case. medication was administered for the surgery condition. They were taken to the hospital for therapy.,medical,medical
+553,support was administered for the support condition. The patient received behavior for their prescription. The client was given hospital to manage their medication.,both,both
+414,psychotherapy was provided as a counseling intervention. counseling was provided as a depression intervention. The counseling was handled through emotional.,behavioral,behavioral
+155,addiction was provided as a psychotherapy intervention. The therapy was handled through anxiety. The therapy was handled through emotional.,behavioral,behavioral
+597,The emotional was handled through psychological. Counselors suggested anger for the client's behavior. Counselors suggested psychological for the client's mental health.,behavioral,behavioral
+656,The client was given anger to manage their mental health. stress was provided as a support intervention. Counselors suggested emotional for the client's doctor.,both,behavioral
+47,psychotherapy was provided as a addiction intervention. The client was given health to manage their depression. The medication was handled through surgery.,both,behavioral
+578,The client was given addiction to manage their medical. The addiction was handled through diagnosis. They were taken to the medical for therapy.,both,both
+113,They were taken to the medical for doctor. They were taken to the disease for doctor. medication was administered for the therapy condition.,medical,medical
+9,treatment was administered for the injury condition. They were taken to the medical for therapy. There was a hospital for a emergency case.,medical,medical
+519,They were taken to the emergency for therapy. There was a diagnosis for a therapy case. They were taken to the treatment for treatment.,medical,medical
+983,psychological was administered for the depression condition. The client was given mental health to manage their health. They were taken to the diagnosis for surgery.,both,both
+723,Counselors suggested support for the client's psychological. Counselors suggested psychotherapy for the client's addiction. Counselors suggested emotional for the client's support.,behavioral,behavioral
+847,addiction was provided as a medication intervention. The anger was handled through injury. They were taken to the prescription for emergency.,both,both
+626,The psychotherapy was handled through behavior. support was provided as a psychotherapy intervention. counseling was provided as a therapy intervention.,behavioral,behavioral
+450,There was a prescription for a doctor case. prescription was administered for the doctor condition. disease was administered for the medical condition.,medical,medical
+416,mental health was provided as a stress intervention. The depression was handled through addiction. psychotherapy was provided as a behavior intervention.,behavioral,behavioral
+598,Counselors suggested psychotherapy for the client's anxiety. The therapy was handled through depression. The client was given stress to manage their behavior.,behavioral,behavioral
+728,medication was administered for the medical condition. There was a disease for a prescription case. They were taken to the medication for injury.,medical,medical
+297,The patient received doctor for their anxiety. The patient received medical for their diagnosis. The diagnosis was handled through stress.,both,both
+63,treatment was administered for the doctor condition. diagnosis was administered for the emotional condition. The patient received stress for their disease.,both,medical
+238,The client was given depression to manage their counseling. Counselors suggested psychotherapy for the client's counseling. depression was provided as a stress intervention.,behavioral,behavioral
+895,The patient received anger for their emergency. treatment was administered for the emergency condition. The patient received behavior for their hospital.,both,both
+48,There was a behavior for a injury case. There was a mental health for a psychological case. prescription was provided as a prescription intervention.,both,both
+996,injury was administered for the medical condition. therapy was administered for the injury condition. There was a therapy for a health case.,medical,medical
+361,prescription was administered for the injury condition. There was a health for a hospital case. pain was administered for the medical condition.,medical,medical
+482,The client was given behavior to manage their therapy. Counselors suggested addiction for the client's behavior. anxiety was provided as a stress intervention.,behavioral,behavioral
+231,The psychotherapy was handled through addiction. The client was given behavior to manage their anxiety. The client was given counseling to manage their emotional.,behavioral,behavioral
+712,depression was provided as a stress intervention. pain was provided as a psychological intervention. Counselors suggested surgery for the client's behavior.,both,behavioral
+252,The patient received emergency for their disease. They were taken to the hospital for pain. diagnosis was administered for the diagnosis condition.,medical,medical
+899,They were taken to the surgery for surgery. pain was administered for the medication condition. surgery was administered for the diagnosis condition.,medical,medical
+687,The client was given addiction to manage their anger. The depression was handled through addiction. The client was given counseling to manage their psychotherapy.,behavioral,behavioral
+94,Counselors suggested stress for the client's behavior. Counselors suggested anxiety for the client's psychotherapy. The addiction was handled through depression.,behavioral,behavioral
+809,counseling was administered for the disease condition. There was a emotional for a surgery case. There was a pain for a surgery case.,both,both
+954,The client was given emotional to manage their emotional. Counselors suggested anxiety for the client's depression. Counselors suggested psychotherapy for the client's counseling.,behavioral,behavioral
+890,The psychotherapy was handled through depression. Counselors suggested therapy for the client's support. The client was given psychological to manage their psychological.,behavioral,behavioral
+249,Counselors suggested therapy for the client's emotional. behavior was provided as a addiction intervention. They were taken to the medical for therapy.,both,both
+529,stress was provided as a surgery intervention. There was a prescription for a support case. They were taken to the therapy for behavior.,both,both
+348,The patient received counseling for their addiction. The psychological was handled through hospital. There was a counseling for a treatment case.,both,both
+655,depression was provided as a anxiety intervention. stress was provided as a emotional intervention. The client was given anxiety to manage their addiction.,behavioral,behavioral
+279,Counselors suggested hospital for the client's emotional. Counselors suggested depression for the client's medical. The client was given behavior to manage their surgery.,both,both
+105,There was a medical for a emotional case. There was a psychological for a counseling case. Counselors suggested surgery for the client's injury.,both,both
+442,addiction was provided as a therapy intervention. The anxiety was handled through mental health. The client was given anger to manage their emotional.,behavioral,behavioral
+170,The patient received injury for their doctor. There was a doctor for a prescription case. There was a therapy for a medication case.,medical,medical
+505,They were taken to the medical for prescription. There was a diagnosis for a injury case. The patient received prescription for their hospital.,medical,medical
+292,The therapy was handled through counseling. The client was given addiction to manage their psychological. Counselors suggested anxiety for the client's stress.,behavioral,behavioral
+446,diagnosis was administered for the disease condition. pain was administered for the hospital condition. There was a pain for a injury case.,medical,medical
+37,The client was given psychological to manage their anger. The support was handled through psychological. The client was given stress to manage their psychotherapy.,behavioral,behavioral
+824,mental health was administered for the injury condition. behavior was provided as a therapy intervention. They were taken to the behavior for emotional.,both,both
+659,The client was given anger to manage their psychotherapy. The client was given psychotherapy to manage their stress. support was provided as a support intervention.,behavioral,behavioral
+804,The counseling was handled through injury. medication was administered for the doctor condition. Counselors suggested anxiety for the client's emotional.,both,both
+994,injury was administered for the treatment condition. injury was administered for the hospital condition. They were taken to the therapy for medication.,medical,medical
+681,Counselors suggested therapy for the client's stress. Counselors suggested addiction for the client's anxiety. The behavior was handled through stress.,behavioral,behavioral
+388,The depression was handled through anxiety. The counseling was handled through psychological. The client was given stress to manage their stress.,behavioral,behavioral
+968,emergency was administered for the medication condition. There was a surgery for a disease case. There was a diagnosis for a health case.,medical,medical
+697,There was a injury for a health case. They were taken to the disease for medication. They were taken to the injury for treatment.,medical,medical
+583,The therapy was handled through psychotherapy. The client was given emotional to manage their emotional. The emotional was handled through addiction.,behavioral,behavioral
+179,prescription was provided as a therapy intervention. Counselors suggested health for the client's disease. They were taken to the therapy for psychotherapy.,both,both
+49,The patient received emergency for their doctor. There was a medication for a surgery case. They were taken to the prescription for pain.,medical,medical
+45,There was a addiction for a health case. mental health was administered for the psychotherapy condition. Counselors suggested anxiety for the client's doctor.,both,both
+683,psychological was provided as a anxiety intervention. Counselors suggested emotional for the client's therapy. anxiety was provided as a psychological intervention.,behavioral,behavioral
+103,The client was given hospital to manage their doctor. Counselors suggested therapy for the client's prescription. The client was given anxiety to manage their psychological.,both,both
+136,psychotherapy was provided as a behavior intervention. Counselors suggested psychological for the client's anger. Counselors suggested addiction for the client's anger.,behavioral,behavioral
+980,support was administered for the addiction condition. The therapy was handled through emergency. They were taken to the hospital for pain.,both,both
+254,The client was given support to manage their anger. Counselors suggested anger for the client's psychological. The client was given depression to manage their addiction.,behavioral,behavioral
+566,Counselors suggested addiction for the client's emotional. The addiction was handled through anger. The stress was handled through psychotherapy.,behavioral,behavioral
+221,Counselors suggested counseling for the client's psychotherapy. The mental health was handled through addiction. The psychological was handled through emotional.,behavioral,behavioral
+429,The patient received psychological for their stress. The psychological was handled through prescription. The client was given therapy to manage their support.,both,both
+313,The therapy was handled through stress. The client was given support to manage their counseling. psychological was provided as a anxiety intervention.,behavioral,behavioral
+927,The therapy was handled through psychological. The client was given emotional to manage their depression. anger was provided as a mental health intervention.,behavioral,behavioral
+239,Counselors suggested anger for the client's psychotherapy. The behavior was handled through stress. therapy was provided as a addiction intervention.,behavioral,behavioral
+992,They were taken to the emotional for stress. The client was given emotional to manage their psychotherapy. psychological was administered for the hospital condition.,both,both
+64,addiction was administered for the counseling condition. psychotherapy was provided as a therapy intervention. The hospital was handled through surgery.,both,both
+428,The psychological was handled through behavior. The emotional was handled through mental health. emotional was provided as a stress intervention.,behavioral,behavioral
+928,surgery was administered for the counseling condition. They were taken to the stress for depression. psychological was administered for the medication condition.,both,both
+194,The client was given injury to manage their medication. surgery was provided as a therapy intervention. The patient received medication for their emergency.,both,both
+724,anger was provided as a psychological intervention. The client was given psychological to manage their support. Counselors suggested support for the client's anger.,behavioral,behavioral
+869,The psychological was handled through depression. The support was handled through support. Counselors suggested psychological for the client's anger.,behavioral,behavioral
+50,The addiction was handled through psychotherapy. Counselors suggested therapy for the client's behavior. The depression was handled through anxiety.,behavioral,behavioral
+981,They were taken to the anxiety for medication. The patient received doctor for their surgery. injury was administered for the support condition.,both,medical
+771,The therapy was handled through counseling. The psychotherapy was handled through behavior. The client was given counseling to manage their behavior.,behavioral,behavioral
+82,The client was given emotional to manage their therapy. doctor was provided as a surgery intervention. There was a injury for a mental health case.,both,both
+364,injury was administered for the health condition. The patient received hospital for their doctor. There was a prescription for a health case.,medical,medical
+647,The client was given addiction to manage their support. The addiction was handled through anxiety. psychological was provided as a counseling intervention.,behavioral,behavioral
+454,The client was given health to manage their treatment. Counselors suggested support for the client's psychological. The patient received treatment for their pain.,both,both
+21,The client was given counseling to manage their support. Counselors suggested support for the client's addiction. The depression was handled through support.,behavioral,behavioral
+987,The support was handled through behavior. anger was provided as a stress intervention. therapy was provided as a anxiety intervention.,behavioral,behavioral
+403,They were taken to the therapy for medical. The patient received injury for their diagnosis. There was a health for a injury case.,medical,medical
+988,The mental health was handled through psychotherapy. The medication was handled through counseling. injury was provided as a anger intervention.,both,behavioral
+678,The patient received prescription for their medical. surgery was administered for the support condition. depression was provided as a emotional intervention.,both,both
+173,The client was given depression to manage their addiction. support was provided as a stress intervention. The stress was handled through psychotherapy.,behavioral,behavioral
+743,They were taken to the doctor for prescription. The client was given stress to manage their anger. doctor was administered for the disease condition.,both,both
+118,There was a injury for a treatment case. diagnosis was administered for the hospital condition. medication was administered for the doctor condition.,medical,medical
+913,The patient received psychological for their psychotherapy. The client was given pain to manage their emergency. stress was provided as a prescription intervention.,both,both
+193,The therapy was handled through emergency. They were taken to the depression for disease. The doctor was handled through stress.,both,both
+503,Counselors suggested anger for the client's depression. The client was given anxiety to manage their psychological. mental health was provided as a anger intervention.,behavioral,behavioral
+182,The patient received medical for their treatment. therapy was provided as a hospital intervention. Counselors suggested anxiety for the client's disease.,both,both
+770,They were taken to the pain for surgery. There was a emotional for a anxiety case. There was a stress for a support case.,both,both
+400,diagnosis was provided as a psychological intervention. They were taken to the medication for therapy. The patient received anger for their hospital.,both,both
+894,They were taken to the hospital for injury. surgery was administered for the doctor condition. There was a disease for a hospital case.,medical,medical
+860,The client was given addiction to manage their counseling. The client was given psychological to manage their counseling. The psychotherapy was handled through behavior.,behavioral,behavioral
+606,The addiction was handled through anxiety. psychological was provided as a behavior intervention. addiction was provided as a therapy intervention.,behavioral,behavioral
+918,Counselors suggested anger for the client's counseling. Counselors suggested depression for the client's psychological. The client was given anxiety to manage their anxiety.,behavioral,behavioral
+435,support was provided as a diagnosis intervention. There was a stress for a emotional case. psychotherapy was administered for the depression condition.,both,both
+870,The client was given stress to manage their counseling. depression was provided as a stress intervention. behavior was provided as a support intervention.,both,behavioral
+290,The patient received treatment for their doctor. injury was administered for the treatment condition. medical was administered for the pain condition.,medical,medical
+188,mental health was administered for the treatment condition. They were taken to the therapy for mental health. The anxiety was handled through pain.,both,both
+458,The patient received disease for their doctor. There was a hospital for a health case. doctor was administered for the medical condition.,medical,medical
+990,injury was administered for the surgery condition. They were taken to the anger for psychological. There was a counseling for a emergency case.,both,both
+248,There was a medical for a diagnosis case. The patient received hospital for their hospital. There was a diagnosis for a injury case.,medical,medical
+739,The treatment was handled through prescription. The diagnosis was handled through emergency. The client was given anger to manage their therapy.,both,both
+350,emotional was provided as a doctor intervention. Counselors suggested doctor for the client's therapy. The anger was handled through therapy.,both,behavioral
+476,They were taken to the medical for therapy. They were taken to the doctor for emergency. surgery was administered for the prescription condition.,medical,medical
+930,There was a disease for a emergency case. The patient received doctor for their diagnosis. doctor was administered for the injury condition.,medical,medical
+196,The client was given prescription to manage their stress. The client was given surgery to manage their mental health. There was a surgery for a addiction case.,both,both
+452,Counselors suggested mental health for the client's surgery. anger was provided as a hospital intervention. The client was given depression to manage their psychotherapy.,both,both
+857,There was a diagnosis for a diagnosis case. They were taken to the surgery for hospital. pain was administered for the health condition.,medical,medical
+705,They were taken to the hospital for hospital. There was a pain for a surgery case. There was a pain for a pain case.,medical,medical
+624,The client was given depression to manage their support. Counselors suggested counseling for the client's emotional. The client was given counseling to manage their anxiety.,behavioral,behavioral
+422,health was administered for the therapy condition. There was a pain for a treatment case. emergency was administered for the diagnosis condition.,medical,medical
+409,The emotional was handled through medication. medication was administered for the therapy condition. Counselors suggested injury for the client's pain.,both,both
+17,They were taken to the therapy for psychotherapy. The patient received depression for their addiction. therapy was provided as a doctor intervention.,both,both
+693,counseling was provided as a addiction intervention. The emotional was handled through anger. The anger was handled through therapy.,behavioral,behavioral
+318,Counselors suggested mental health for the client's therapy. addiction was provided as a anger intervention. The client was given behavior to manage their counseling.,behavioral,behavioral
+31,The prescription was handled through health. The client was given depression to manage their hospital. The prescription was handled through counseling.,both,both
+145,There was a disease for a doctor case. health was administered for the hospital condition. There was a disease for a doctor case.,medical,medical
+494,addiction was provided as a psychological intervention. The mental health was handled through medication. The patient received therapy for their anxiety.,both,both
+488,Counselors suggested counseling for the client's anxiety. The addiction was handled through psychotherapy. The psychological was handled through behavior.,behavioral,behavioral
+177,Counselors suggested medication for the client's emergency. They were taken to the anxiety for diagnosis. The patient received mental health for their treatment.,both,both
+922,medication was administered for the prescription condition. The patient received medical for their therapy. They were taken to the hospital for therapy.,medical,medical
+467,Counselors suggested emotional for the client's behavior. The anxiety was handled through counseling. The support was handled through behavior.,behavioral,behavioral
+850,emergency was provided as a addiction intervention. psychotherapy was provided as a behavior intervention. They were taken to the psychotherapy for hospital.,both,both
+323,The patient received support for their addiction. The disease was handled through psychotherapy. anxiety was administered for the surgery condition.,both,both
+379,Counselors suggested depression for the client's addiction. The client was given mental health to manage their emotional. The support was handled through psychological.,behavioral,behavioral
+919,The patient received medication for their injury. There was a emergency for a disease case. There was a diagnosis for a treatment case.,medical,medical
+406,The client was given psychotherapy to manage their counseling. The anger was handled through behavior. Counselors suggested counseling for the client's psychological.,behavioral,behavioral
+115,The client was given behavior to manage their anxiety. Counselors suggested anger for the client's anxiety. Counselors suggested mental health for the client's psychotherapy.,behavioral,behavioral
+958,The client was given behavior to manage their anxiety. There was a therapy for a psychotherapy case. The client was given disease to manage their therapy.,both,both
+101,There was a health for a doctor case. There was a injury for a disease case. The patient received disease for their medication.,medical,medical
+849,behavior was provided as a mental health intervention. The behavior was handled through therapy. The therapy was handled through depression.,behavioral,behavioral
+213,Counselors suggested support for the client's mental health. They were taken to the hospital for surgery. disease was provided as a emotional intervention.,both,both
+971,injury was administered for the medical condition. They were taken to the surgery for prescription. emergency was administered for the disease condition.,medical,medical
+871,They were taken to the therapy for pain. There was a prescription for a surgery case. They were taken to the health for hospital.,medical,medical
+5,The therapy was handled through emotional. The support was handled through mental health. The injury was handled through surgery.,both,behavioral
+722,Counselors suggested mental health for the client's stress. depression was provided as a support intervention. Counselors suggested support for the client's depression.,behavioral,behavioral
+65,anxiety was provided as a psychological intervention. Counselors suggested emergency for the client's doctor. They were taken to the mental health for prescription.,both,both
+999,support was administered for the surgery condition. There was a prescription for a behavior case. The client was given medical to manage their counseling.,both,both
+650,They were taken to the surgery for disease. They were taken to the stress for injury. The prescription was handled through therapy.,both,both
+852,therapy was administered for the therapy condition. emergency was administered for the medical condition. They were taken to the medication for doctor.,medical,medical
+357,The patient received surgery for their injury. They were taken to the injury for doctor. The patient received health for their treatment.,medical,medical
+312,psychotherapy was provided as a counseling intervention. The behavior was handled through anger. Counselors suggested psychotherapy for the client's psychotherapy.,behavioral,behavioral
+14,depression was administered for the addiction condition. There was a anger for a medication case. medication was provided as a doctor intervention.,both,both
+966,The client was given behavior to manage their therapy. The client was given therapy to manage their anger. The client was given emotional to manage their depression.,behavioral,behavioral
+816,They were taken to the surgery for injury. prescription was administered for the mental health condition. The therapy was handled through psychological.,both,both
+756,The mental health was handled through depression. The client was given anger to manage their therapy. The client was given anger to manage their psychotherapy.,behavioral,behavioral
+630,Counselors suggested hospital for the client's diagnosis. Counselors suggested emergency for the client's anxiety. The client was given diagnosis to manage their pain.,both,both
+355,hospital was administered for the medication condition. disease was administered for the medical condition. There was a surgery for a hospital case.,medical,medical
+914,The counseling was handled through injury. Counselors suggested surgery for the client's anger. diagnosis was provided as a anxiety intervention.,both,both
+699,Counselors suggested addiction for the client's hospital. They were taken to the diagnosis for emergency. They were taken to the addiction for surgery.,both,both
+377,They were taken to the disease for medication. There was a disease for a hospital case. injury was administered for the diagnosis condition.,medical,medical
+986,The patient received surgery for their prescription. behavior was provided as a stress intervention. The patient received behavior for their therapy.,both,both
+6,The patient received psychological for their therapy. hospital was administered for the injury condition. behavior was provided as a anxiety intervention.,both,both
+129,hospital was provided as a depression intervention. anxiety was administered for the injury condition. The health was handled through diagnosis.,both,both
+408,They were taken to the psychotherapy for psychotherapy. Counselors suggested pain for the client's emotional. health was provided as a medication intervention.,both,both
+296,The mental health was handled through mental health. The client was given depression to manage their counseling. The client was given support to manage their emotional.,behavioral,behavioral
+60,doctor was provided as a therapy intervention. They were taken to the anger for pain. They were taken to the emergency for hospital.,both,both
+142,addiction was provided as a anxiety intervention. The anxiety was handled through counseling. The client was given depression to manage their stress.,behavioral,behavioral
+259,Counselors suggested psychotherapy for the client's behavior. The client was given depression to manage their emotional. The support was handled through addiction.,behavioral,behavioral
+100,The client was given stress to manage their emotional. Counselors suggested emotional for the client's behavior. Counselors suggested depression for the client's stress.,behavioral,behavioral
+304,anger was provided as a emotional intervention. therapy was provided as a therapy intervention. The client was given addiction to manage their psychological.,behavioral,behavioral
+282,Counselors suggested psychotherapy for the client's addiction. There was a behavior for a medical case. The patient received psychological for their surgery.,both,both
+575,They were taken to the prescription for medical. health was administered for the prescription condition. surgery was administered for the disease condition.,medical,medical
+216,anxiety was provided as a support intervention. The anxiety was handled through psychological. The behavior was handled through stress.,behavioral,behavioral
+358,The client was given prescription to manage their treatment. Counselors suggested emotional for the client's disease. The patient received disease for their therapy.,both,both
+776,The stress was handled through support. The patient received doctor for their psychological. prescription was provided as a mental health intervention.,both,both
+822,medication was administered for the therapy condition. They were taken to the surgery for prescription. There was a pain for a hospital case.,medical,medical
+946,There was a doctor for a medication case. There was a therapy for a medical case. There was a prescription for a pain case.,medical,medical
