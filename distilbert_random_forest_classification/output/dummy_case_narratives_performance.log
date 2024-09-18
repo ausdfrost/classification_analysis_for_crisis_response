@@ -1,0 +1,24 @@
+Model accuracy: 0.96
+
+Missed predictions (y_true != y_pred):
+Index: 266, X: The patient received pain for their therapy. They were taken to the therapy for treatment. The patient received emotional for their disease., y_true: both, y_pred: medical
+Index: 708, X: There was a depression for a hospital case. There was a depression for a doctor case. There was a injury for a medical case., y_true: both, y_pred: medical
+Index: 47, X: psychotherapy was provided as a addiction intervention. The client was given health to manage their depression. The medication was handled through surgery., y_true: both, y_pred: behavioral
+Index: 528, X: Counselors suggested emotional for the client's injury. The treatment was handled through therapy. The client was given emergency to manage their injury., y_true: both, y_pred: behavioral
+Index: 265, X: The patient received behavior for their prescription. therapy was administered for the diagnosis condition. The patient received hospital for their psychological., y_true: both, y_pred: medical
+Index: 195, X: They were taken to the surgery for mental health. The patient received psychotherapy for their prescription. There was a diagnosis for a pain case., y_true: both, y_pred: medical
+Index: 984, X: The therapy was handled through hospital. The support was handled through anxiety. Counselors suggested anxiety for the client's counseling., y_true: both, y_pred: behavioral
+Index: 63, X: treatment was administered for the doctor condition. diagnosis was administered for the emotional condition. The patient received stress for their disease., y_true: both, y_pred: medical
+Index: 988, X: The mental health was handled through psychotherapy. The medication was handled through counseling. injury was provided as a anger intervention., y_true: both, y_pred: behavioral
+Index: 895, X: The patient received anger for their emergency. treatment was administered for the emergency condition. The patient received behavior for their hospital., y_true: both, y_pred: medical
+Index: 809, X: counseling was administered for the disease condition. There was a emotional for a surgery case. There was a pain for a surgery case., y_true: both, y_pred: medical
+Index: 330, X: therapy was administered for the medical condition. health was administered for the doctor condition. anger was administered for the hospital condition., y_true: both, y_pred: medical
+Index: 617, X: The patient received prescription for their health. hospital was administered for the psychological condition. The patient received therapy for their hospital., y_true: both, y_pred: medical
+Index: 513, X: pain was provided as a addiction intervention. The prescription was handled through prescription. The mental health was handled through addiction., y_true: both, y_pred: behavioral
+Index: 555, X: psychological was administered for the health condition. They were taken to the therapy for emergency. The patient received surgery for their medical., y_true: both, y_pred: medical
+Index: 449, X: The patient received psychological for their medical. They were taken to the doctor for treatment. There was a pain for a treatment case., y_true: both, y_pred: medical
+Index: 76, X: The client was given therapy to manage their disease. The client was given stress to manage their disease. The emotional was handled through support., y_true: both, y_pred: behavioral
+Index: 365, X: doctor was administered for the prescription condition. emergency was administered for the mental health condition. There was a hospital for a therapy case., y_true: both, y_pred: medical
+Index: 134, X: They were taken to the health for psychotherapy. The patient received emergency for their therapy. There was a medical for a prescription case., y_true: both, y_pred: medical
+Index: 934, X: Counselors suggested behavior for the client's support. Counselors suggested psychotherapy for the client's counseling. Counselors suggested addiction for the client's depression., y_true: behavioral, y_pred: both
+Index: 751, X: There was a doctor for a doctor case. emergency was administered for the medication condition. psychotherapy was administered for the diagnosis condition., y_true: both, y_pred: medical
