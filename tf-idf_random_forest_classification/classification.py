@@ -8,7 +8,8 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
-from sklearn import metrics
+
+from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay
 
 from sklearn.tree import export_graphviz
 from graphviz import Source
@@ -38,7 +39,7 @@ clf.fit(X_train_tfidf, y_train)
 y_pred = clf.predict(X_test_tfidf)
 
 # Determine accuracy metrics
-accuracy = metrics.accuracy_score(y_test, y_pred)
+accuracy = accuracy_score(y_test, y_pred)
 
 # Create new DF with test results
 results = pd.DataFrame(
@@ -91,6 +92,15 @@ dot_data = export_graphviz(
 tree_path = f"output/random_forest_tree_{tree_number}"
 
 # Use graphviz to display the tree
-graph = Source(dot_data)
+graph = Source(dot_data, format='png')
 graph.render(tree_path)
-graph.view()
+#graph.view()
+
+# Define path to export confusion matrix plot to
+cm_path = f"output/random_forest_conf_mat_{tree_number}"
+
+# Create and plot a confusion matrix
+cm = confusion_matrix(y_test, y_pred)
+disp = ConfusionMatrixDisplay(cm, display_labels=clf.classes_.astype(str))
+disp.plot(cmap='viridis')
+plt.savefig(cm_path)

@@ -1,27 +1,22 @@
-Model accuracy: 0.95
+Model accuracy: 0.96
 
 Missed predictions (y_true != y_pred):
-Index: 528, X: Counselors suggested emotional for the client's injury. The treatment was handled through therapy. The client was given emergency to manage their injury., y_true: both, y_pred: behavioral
-Index: 469, X: pain was provided as a pain intervention. The anxiety was handled through depression. The client was given prescription to manage their prescription., y_true: both, y_pred: behavioral
-Index: 570, X: There was a health for a treatment case. The patient received behavior for their therapy. There was a anxiety for a therapy case., y_true: both, y_pred: medical
-Index: 134, X: They were taken to the health for psychotherapy. The patient received emergency for their therapy. There was a medical for a prescription case., y_true: both, y_pred: medical
-Index: 558, X: The therapy was handled through mental health. Counselors suggested emotional for the client's anxiety. The client was given depression to manage their disease., y_true: both, y_pred: behavioral
-Index: 22, X: The injury was handled through behavior. The client was given doctor to manage their support. behavior was provided as a anger intervention., y_true: both, y_pred: behavioral
-Index: 751, X: There was a doctor for a doctor case. emergency was administered for the medication condition. psychotherapy was administered for the diagnosis condition., y_true: both, y_pred: medical
-Index: 588, X: They were taken to the medical for surgery. There was a medical for a prescription case. They were taken to the medical for medical., y_true: medical, y_pred: both
-Index: 885, X: Counselors suggested mental health for the client's diagnosis. The behavior was handled through hospital. Counselors suggested psychotherapy for the client's emotional., y_true: both, y_pred: behavioral
-Index: 334, X: The client was given psychological to manage their disease. The client was given pain to manage their therapy. Counselors suggested mental health for the client's support., y_true: both, y_pred: behavioral
 Index: 645, X: The client was given depression to manage their stress. The behavior was handled through behavior. pain was provided as a counseling intervention., y_true: both, y_pred: behavioral
-Index: 91, X: They were taken to the depression for therapy. There was a emergency for a treatment case. They were taken to the doctor for depression., y_true: both, y_pred: medical
-Index: 215, X: Counselors suggested addiction for the client's depression. The client was given stress to manage their doctor. The client was given mental health to manage their disease., y_true: both, y_pred: behavioral
-Index: 498, X: They were taken to the therapy for prescription. There was a treatment for a anxiety case. They were taken to the diagnosis for therapy., y_true: both, y_pred: medical
-Index: 244, X: hospital was administered for the hospital condition. There was a addiction for a anxiety case. They were taken to the injury for hospital., y_true: both, y_pred: medical
-Index: 656, X: The client was given anger to manage their mental health. stress was provided as a support intervention. Counselors suggested emotional for the client's doctor., y_true: both, y_pred: behavioral
-Index: 47, X: psychotherapy was provided as a addiction intervention. The client was given health to manage their depression. The medication was handled through surgery., y_true: both, y_pred: behavioral
-Index: 63, X: treatment was administered for the doctor condition. diagnosis was administered for the emotional condition. The patient received stress for their disease., y_true: both, y_pred: medical
-Index: 712, X: depression was provided as a stress intervention. pain was provided as a psychological intervention. Counselors suggested surgery for the client's behavior., y_true: both, y_pred: behavioral
-Index: 981, X: They were taken to the anxiety for medication. The patient received doctor for their surgery. injury was administered for the support condition., y_true: both, y_pred: medical
-Index: 988, X: The mental health was handled through psychotherapy. The medication was handled through counseling. injury was provided as a anger intervention., y_true: both, y_pred: behavioral
 Index: 870, X: The client was given stress to manage their counseling. depression was provided as a stress intervention. behavior was provided as a support intervention., y_true: both, y_pred: behavioral
-Index: 350, X: emotional was provided as a doctor intervention. Counselors suggested doctor for the client's therapy. The anger was handled through therapy., y_true: both, y_pred: behavioral
-Index: 5, X: The therapy was handled through emotional. The support was handled through mental health. The injury was handled through surgery., y_true: both, y_pred: behavioral
+Index: 91, X: They were taken to the depression for therapy. There was a emergency for a treatment case. They were taken to the doctor for depression., y_true: both, y_pred: medical
+Index: 984, X: The therapy was handled through hospital. The support was handled through anxiety. Counselors suggested anxiety for the client's counseling., y_true: both, y_pred: behavioral
+Index: 555, X: psychological was administered for the health condition. They were taken to the therapy for emergency. The patient received surgery for their medical., y_true: both, y_pred: medical
+Index: 220, X: The patient received emergency for their anxiety. The patient received medication for their counseling. The patient received prescription for their pain., y_true: both, y_pred: medical
+Index: 708, X: There was a depression for a hospital case. There was a depression for a doctor case. There was a injury for a medical case., y_true: both, y_pred: medical
+Index: 558, X: The therapy was handled through mental health. Counselors suggested emotional for the client's anxiety. The client was given depression to manage their disease., y_true: both, y_pred: behavioral
+Index: 825, X: There was a health for a disease case. anger was administered for the treatment condition. disease was administered for the surgery condition., y_true: both, y_pred: medical
+Index: 981, X: They were taken to the anxiety for medication. The patient received doctor for their surgery. injury was administered for the support condition., y_true: both, y_pred: medical
+Index: 76, X: The client was given therapy to manage their disease. The client was given stress to manage their disease. The emotional was handled through support., y_true: both, y_pred: behavioral
+Index: 330, X: therapy was administered for the medical condition. health was administered for the doctor condition. anger was administered for the hospital condition., y_true: both, y_pred: medical
+Index: 244, X: hospital was administered for the hospital condition. There was a addiction for a anxiety case. They were taken to the injury for hospital., y_true: both, y_pred: medical
+Index: 588, X: They were taken to the medical for surgery. There was a medical for a prescription case. They were taken to the medical for medical., y_true: medical, y_pred: both
+Index: 516, X: The patient received treatment for their health. The patient received injury for their diagnosis. The patient received medical for their diagnosis., y_true: medical, y_pred: both
+Index: 988, X: The mental health was handled through psychotherapy. The medication was handled through counseling. injury was provided as a anger intervention., y_true: both, y_pred: behavioral
+Index: 449, X: The patient received psychological for their medical. They were taken to the doctor for treatment. There was a pain for a treatment case., y_true: both, y_pred: medical
+Index: 7, X: The patient received diagnosis for their prescription. The patient received doctor for their doctor. The patient received pain for their surgery., y_true: medical, y_pred: both
+Index: 751, X: There was a doctor for a doctor case. emergency was administered for the medication condition. psychotherapy was administered for the diagnosis condition., y_true: both, y_pred: medical
