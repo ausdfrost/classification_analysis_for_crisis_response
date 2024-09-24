@@ -1,6 +1,8 @@
 # TF-IDF Random Forest Classification
+# using CAHOOTS Case Narratives
+#
 # Script by Aussie Frost
-# Updated on Sept 18, 2024
+# Updated on Sept 23, 2024
 
 import numpy as np
 import pandas as pd
@@ -15,24 +17,35 @@ from sklearn.tree import export_graphviz
 from graphviz import Source
 from matplotlib import pyplot as plt
 
+# Define the data path
+data_path = '../data/hand_labeled_modes_of_intervention/2023_CAHOOTS_Call_Data_True_Labels.csv'
+
 # Read the data into DataFrame
-data = pd.read_csv("../data/dummy_case_narratives.csv")
+data = pd.read_csv(data_path)
+
+# Fill missing values
+data = data.replace(np.nan, "Other")
+
+# Merge on axis
+data['Merged'] = data.apply(lambda row: ' '.join(row.values.astype(str)), axis=1)
+
+#data.drop('ModeOfIntervention', axis=1)
 
 # Split data into X, y
-X, y = data['x'], data['y']
+X, y = data['Merged'], data['ModeOfIntervention']
 
 # Split arrays into random train and test sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.50)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.70)
 
 # Define a TF-IDF text vectorization model
-tfidf = TfidfVectorizer(max_features = 100, stop_words='english')
+tfidf = TfidfVectorizer(max_features = 200, stop_words='english')
 
 # Use TF-IDF to convert X text data into numerical features
 X_train_tfidf = tfidf.fit_transform(X_train)
 X_test_tfidf = tfidf.transform(X_test)
 
 # Create a RF classifier
-clf = RandomForestClassifier(n_estimators = 100)
+clf = RandomForestClassifier(n_estimators = 200)
 
 # Train the model on the training dataset
 clf.fit(X_train_tfidf, y_train)
