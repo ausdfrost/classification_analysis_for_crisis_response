@@ -1,13 +1,12 @@
-# DistilBERT Random Forest Classification
+# TF-IDF Random Forest Classification
 # Script by Aussie Frost
 # Updated on Sept 18, 2024
 
 import numpy as np
 import pandas as pd
 
-from transformers import DistilBertTokenizer, DistilBertModel
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
-import torch
 from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay
@@ -25,31 +24,21 @@ X, y = data['x'], data['y']
 # Split arrays into random train and test sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.50)
 
-# Load DistilBERT tokenizer and model
-tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
-model = DistilBertModel.from_pretrained('distilbert-base-uncased')
+# Define a TF-IDF text vectorization model
+tfidf = TfidfVectorizer(max_features = 100, stop_words='english')
 
-# Define text encoder
-def text_encoder(texts, tokenizer, model):
-    encoded_inputs = tokenizer(texts.tolist(), padding=True, truncation=True, return_tensors="pt")
-    with torch.no_grad():
-        outputs = model(**encoded_inputs)
-    
-    # Use mean pooling to get sentence embeddings
-    return outputs.last_hidden_state.mean(dim=1).numpy()
-
-# Tokenize the text data and convert to tensors
-X_train_distilbert = text_encoder(X_train, tokenizer, model)
-X_test_distilbert = text_encoder(X_test, tokenizer, model)
+# Use TF-IDF to convert X text data into numerical features
+X_train_tfidf = tfidf.fit_transform(X_train)
+X_test_tfidf = tfidf.transform(X_test)
 
 # Create a RF classifier
 clf = RandomForestClassifier(n_estimators = 100)
 
 # Train the model on the training dataset
-clf.fit(X_train_distilbert, y_train)
+clf.fit(X_train_tfidf, y_train)
 
 # Predict on the test dataset
-y_pred = clf.predict(X_test_distilbert)
+y_pred = clf.predict(X_test_tfidf)
 
 # Determine accuracy metrics
 accuracy = accuracy_score(y_test, y_pred)
@@ -94,7 +83,7 @@ tree = clf.estimators_[tree_number]
 dot_data = export_graphviz(
     tree, 
     out_file=None, 
-    #feature_names=tfidf.get_feature_names_out(),
+    feature_names=tfidf.get_feature_names_out(),
     class_names=clf.classes_.astype(str),
     filled=True, 
     rounded=False, 
