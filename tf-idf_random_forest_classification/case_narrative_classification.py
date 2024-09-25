@@ -2,7 +2,7 @@
 # using CAHOOTS Case Narratives
 #
 # Script by Aussie Frost
-# Updated on Sept 23, 2024
+# Updated on Sept 24, 2024
 
 import numpy as np
 import pandas as pd
@@ -35,17 +35,17 @@ data['Merged'] = data.apply(lambda row: ' '.join(row.values.astype(str)), axis=1
 X, y = data['Merged'], data['ModeOfIntervention']
 
 # Split arrays into random train and test sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.70)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.30)
 
 # Define a TF-IDF text vectorization model
-tfidf = TfidfVectorizer(max_features = 200, stop_words='english')
+tfidf = TfidfVectorizer(max_features = 300, stop_words='english')
 
 # Use TF-IDF to convert X text data into numerical features
 X_train_tfidf = tfidf.fit_transform(X_train)
 X_test_tfidf = tfidf.transform(X_test)
 
 # Create a RF classifier
-clf = RandomForestClassifier(n_estimators = 200)
+clf = RandomForestClassifier(n_estimators = 300, class_weight='balanced')
 
 # Train the model on the training dataset
 clf.fit(X_train_tfidf, y_train)
@@ -68,22 +68,25 @@ results = pd.DataFrame(
 # Output the test results to a CSV
 results.to_csv('output/dummy_case_narratives_results.csv')
 
-# Output misses
-misses = results[results['y_true'] != results['y_pred']]
+# Derive misses
+#misses = results[results['y_true'] != results['y_pred']]
 
 # Define path to log file
 log_path = "output/dummy_case_narratives_performance.log"
 
-# Log both accuracy and misses to a .log file
+# Log performance results to a .log file
 with open(log_path, 'w') as log_file:
+
+    # Log the distribution of true labels
+    log_file.write(f"Distribution: \n{data['ModeOfIntervention'].value_counts()}\n\n")
 
     # Log accuracy score
     log_file.write(f"Model accuracy: {accuracy:.4f}\n\n")
     
     # Log the misses
-    log_file.write("Missed predictions (y_true != y_pred):\n")
-    for index, row in misses.iterrows():
-        log_file.write(f"Index: {index}, X: {row['X']}, y_true: {row['y_true']}, y_pred: {row['y_pred']}\n")
+    #log_file.write("Missed predictions (y_true != y_pred):\n")
+    #for index, row in misses.iterrows():
+        #log_file.write(f"Index: {index}, X: {row['X']}, y_true: {row['y_true']}, y_pred: {row['y_pred']}\n")
 
 print()
 print(f"Log file saved to {log_path}.")
