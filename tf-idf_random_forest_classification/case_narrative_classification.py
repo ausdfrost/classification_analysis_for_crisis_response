@@ -66,7 +66,7 @@ results = pd.DataFrame(
 )
 
 # Output the test results to a CSV
-results.to_csv('output/dummy_case_narratives_results.csv')
+results.to_csv('../data/hand_labeled_modes_of_intervention/dummy_case_narratives_results_tf-idf_random_forest.csv')
 
 # Derive misses
 #misses = results[results['y_true'] != results['y_pred']]
