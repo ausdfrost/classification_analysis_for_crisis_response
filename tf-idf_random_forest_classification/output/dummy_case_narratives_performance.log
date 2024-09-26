@@ -6,5 +6,5 @@ Medical       41
 Both          19
 Name: count, dtype: int64
 
-Model accuracy: 0.8500
+Model accuracy: 0.8167
 
