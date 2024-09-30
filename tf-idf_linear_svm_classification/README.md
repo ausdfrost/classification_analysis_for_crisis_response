@@ -8,7 +8,7 @@ Create a multi-class classification model to classify Modes of Intervention (MoI
 The file [classification.py](classification.py) is a implementation of classifying case narratives that were processed using TF-IDF (Term Frequency-Inverse Document Frequency) vectorization and Linear SVM classification. 
 
 ## Data
-The dataset is a set of 200 CAHOOTS Case Narratives that have been hand-labeled with classifications (behavioral, medical, both, other). Information on the occurences of these labels can be found in the output file (see Results).
+The dataset is a set of 200 CAHOOTS Case Narratives that have been hand-labeled with MoI classifications (behavioral, medical, both, other). Information on the occurences of these labels can be found in the output file (see Results).
 
 ## Preprocessing
 The text contained in column x is preprocessed using TF-IDF (Term Frequency-Inverse Document Frequency) Vectorization. In this case, the top 100 relevant features of each case are extracted in the form of a vectors that will be used for the Random Forest classification. Additionally, English stopwords (the, and, then, etc.) are redacted as part of preprocessing. Finally, the data is split into a 50/50 train and test set.
