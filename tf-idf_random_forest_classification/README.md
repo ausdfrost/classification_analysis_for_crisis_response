@@ -5,7 +5,7 @@ A script by Aussie Frost. Updated on Sept 30, 2024.
 Create a multi-class classification model to classify Modes of Intervention (MoI) for CAHOOTS case narratives.
 
 ## Summary
-The file [classification.py](classification.py) is a implementation of classifying case narratives that were processed using TF-IDF (Term Frequency-Inverse Document Frequency) vectorization and Linear SVM classification. 
+The file [case_narrative_classification.py](case_narrative_classification.py) is a implementation of classifying case narratives that were processed using TF-IDF (Term Frequency-Inverse Document Frequency) vectorization and Random Forest classification. 
 
 ## Data
 The dataset is a set of 200 CAHOOTS Case Narratives that have been hand-labeled with MoI classifications (behavioral, medical, both, other). Information on the occurences of these labels can be found in the output file (see Results).
