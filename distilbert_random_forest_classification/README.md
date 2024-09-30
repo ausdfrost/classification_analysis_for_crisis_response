@@ -17,8 +17,10 @@ The text was transformed using DistilBERT embeddings. The data is split into a 5
 Classification is performed using a Random Forest using the top 100 estimators.
 
 ## Results
-The model performs at 97.4% accuracy, indicating successful multi-class classification of MoI. Test results are output in `data/dummy_case_narratives_results.csv`. Model scores and misses are output to the log file `output/dummy_case_narratives_performance.log`.
+The model performs at 66.0% accuracy, indicating successful multi-class classification of MoI. Test results are output in `data/dummy_case_narratives_results.csv`. Model scores and misses are output to the log file `output/dummy_case_narratives_performance.log`.
 
-## Next steps
-- Expand script to capture the multi-dimensional CAHOOTS data
-- Incorperate improvement over time...
+One of the decision trees took the following form:
+![alt text](output/random_forest_tree_0.png)
+
+We can understand the performance by looking at a confusion matrix:
+![alt text](output/random_forest_conf_mat_0.png)
