@@ -17,7 +17,7 @@ The text contained in column x is preprocessed using TF-IDF (Term Frequency-Inve
 Classification is performed using a Linear SVM using the top 100 estimators.
 
 ## Results
-The model performs at 96.8% accuracy, indicating successful multi-class classification of MoI. Test results are output in `output/dummy_case_narratives_performance.log`. Model scores and misses are output to the log file `output/dummy_case_narratives_performance.log`.
+The model performs at 96.8% accuracy, indicating successful multi-class classification of MoI. Test results are output in '[output/dummy_case_narratives_performance.log](output/dummy_case_narratives_performance.log)'. Model scores and misses are output to the log file `output/dummy_case_narratives_performance.log`.
 
 One of the decision trees took the following form:
 ![alt text](output/random_forest_tree_0.png)
