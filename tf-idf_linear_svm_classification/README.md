@@ -11,7 +11,7 @@ The file [classification.py](classification.py) is a implementation of classifyi
 The dataset is a set of 200 CAHOOTS Case Narratives that have been hand-labeled with MoI classifications (behavioral, medical, both, other). Information on the occurences of these labels can be found in the output file (see Results).
 
 ## Preprocessing
-The text contained in column x is preprocessed using TF-IDF (Term Frequency-Inverse Document Frequency) Vectorization. In this case, the top 100 relevant features of each case are extracted in the form of a vectors that will be used for the Random Forest classification. Additionally, English stopwords (the, and, then, etc.) are redacted as part of preprocessing. Finally, the data is split into a 50/50 train and test set.
+The text contained in column x is preprocessed using TF-IDF (Term Frequency-Inverse Document Frequency) Vectorization. In this case, the top 100 relevant features of each case are extracted in the form of a vectors that will be used for the Linear SVM classification. Additionally, English stopwords (the, and, then, etc.) are redacted as part of preprocessing. Finally, the data is split into a 50/50 train and test set.
 
 ## Classification
 Classification is performed using a Linear SVM using the top 100 estimators.
